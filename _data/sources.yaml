@@ -21,3 +21,19 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- type: Article
+  id: Mantau2022
+  author: Mantau, Aprinaldi Jasa and Widayat, Irawan Widi and Leu, Jenq-Shiou and
+    Köppen, Mario
+  title: A Human-Detection Method Based on YOLOv5 and Transfer Learning Using Thermal
+    Image Data from UAV Perspective for Surveillance System
+  year: '2022'
+  journal: Drones
+  volume: '6'
+  number: '10'
+  doi: 10.3390/drones6100290
+  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140607267&doi=10.3390%2fdrones6100290&partnerID=40&md5=b1a492c99d578d53e9c847d79e6c3ac4
+  publication_stage: Final
+  source: Scopus
+  note: 'Cited by: 32; All Open Access, Gold Open Access'
