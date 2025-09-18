@@ -262,3 +262,16 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: 10.3390/drones6100290
+  title: A Human-Detection Method Based on YOLOv5 and Transfer Learning Using Thermal
+    Image Data from UAV Perspective for Surveillance System
+  authors:
+  - Aprinaldi Jasa Mantau
+  - Irawan Widi Widayat
+  - Jenq-Shiou Leu
+  - "Mario K\xF6ppen"
+  publisher: Drones
+  date: '2022-10-04'
+  link: https://doi.org/g9sqsk
+  plugin: sources.py
+  file: sources.yaml
