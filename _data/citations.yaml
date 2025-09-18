@@ -230,5 +230,6 @@
   publisher: Drones
   date: '2022-10-04'
   link: https://doi.org/g9sqsk
+  type: paper
   plugin: sources.py
   file: sources.yaml
