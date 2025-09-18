@@ -2579,6 +2579,25 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1109/ACCESS.2025.3550949
+  title: Convolutional Autoencoder With Sequential and Channel Attention for Robust
+    ECG Signal Denoising With Edge Device Implementation
+  authors:
+  - Alif Wicaksana Ramadhan
+  - Syifa Kushirayati
+  - Salsabila Aurellia
+  - Mgs M. Luthfi Ramadhan
+  - Muhammad Hannan Hunafa
+  - Muhammad Febrian Rachmadi
+  - Aprinaldi Jasa Mantau
+  - Siti Nurmaini
+  - Satria Mandala
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g9p6s7
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.3390/drones6100290
   title: A Human-Detection Method Based on YOLOv5 and Transfer Learning Using Thermal
     Image Data from UAV Perspective for Surveillance System
