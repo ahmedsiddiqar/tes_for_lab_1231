@@ -5,6 +5,6 @@
 
   # ahmedsiddiqar's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ahmedsiddiqar.github.io/tes_for_lab_1231](https://ahmedsiddiqar.github.io/tes_for_lab_1231)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
